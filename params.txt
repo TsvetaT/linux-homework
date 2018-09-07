@@ -1,0 +1,9 @@
+PARAM1=Potter
+PARAM2=Harry
+PARAM3=and
+PARAM4=Hermione
+PARAM5=Snape
+PARAM6=Gryffindor
+PARAM7=it
+PARAM8=hand
+PARAM9=know
